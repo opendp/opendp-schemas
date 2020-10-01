@@ -1,2 +1,5 @@
 # opendp-schemas
-JSON Schemas for OpenDP
+
+This repository includes schemas for OpenDP.
+
+  - [Release Schemas](release_schemas)
