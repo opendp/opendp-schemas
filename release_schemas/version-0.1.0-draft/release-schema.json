@@ -1,5 +1,5 @@
 {
-   "$id":"https://example.com/arrays.schema.json",
+   "$id":"https://raw.githubusercontent.com/opendifferentialprivacy/opendp-schemas/master/release_schemas/version-0.1.0-draft/release-schema.json",
    "$schema":"http://json-schema.org/draft-07/schema#",
    "additionalProperties":false,
    "description":"Differentially Private Release",
